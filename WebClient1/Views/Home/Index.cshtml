@@ -8,3 +8,7 @@ You are logged in as @User.Identity.Name
 {
     <h4>Greetings my Master!</h4>
 }
+@if (User.IsInRole("slave"))
+{
+	<h4>Back to work slave!</h4>
+}

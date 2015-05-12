@@ -41,3 +41,4 @@ C:\main\git\SSO\WebClient1\bin\EntityFramework.dll
 C:\main\git\SSO\WebClient1\bin\EntityFramework.SqlServer.dll
 C:\main\git\SSO\WebClient1\bin\EntityFramework.xml
 C:\main\git\SSO\WebClient1\bin\EntityFramework.SqlServer.xml
+C:\main\git\SSO\WebClient1\obj\Debug\WebClient1.csprojResolveAssemblyReference.cache

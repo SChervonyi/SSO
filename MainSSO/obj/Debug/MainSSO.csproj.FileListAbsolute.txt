@@ -54,3 +54,4 @@ C:\main\git\SSO\MainSSO\bin\System.Web.Mvc.xml
 C:\main\git\SSO\MainSSO\bin\System.Net.Http.Formatting.xml
 C:\main\git\SSO\MainSSO\obj\Debug\MainSSO.dll
 C:\main\git\SSO\MainSSO\obj\Debug\MainSSO.pdb
+C:\main\git\SSO\MainSSO\obj\Debug\MainSSO.csprojResolveAssemblyReference.cache
