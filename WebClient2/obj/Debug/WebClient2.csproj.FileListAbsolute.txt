@@ -15,4 +15,3 @@ D:\Development\Visual Studio 2013\Projects\MySSO\WebClient2\bin\System.Web.Helpe
 D:\Development\Visual Studio 2013\Projects\MySSO\WebClient2\bin\System.Web.Mvc.xml
 D:\Development\Visual Studio 2013\Projects\MySSO\WebClient2\obj\Debug\WebClient2.dll
 D:\Development\Visual Studio 2013\Projects\MySSO\WebClient2\obj\Debug\WebClient2.pdb
-D:\Development\Visual Studio 2013\Projects\MySSO\WebClient2\obj\Debug\WebClient2.csprojResolveAssemblyReference.cache

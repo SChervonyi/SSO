@@ -28,10 +28,8 @@ namespace MainSSO.Controllers
         [AllowAnonymous]
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Login(string username, string password, string returnUrl)
+        public ActionResult Login(string username, string password, string role, string returnUrl)
         {
-            //WebSecurity.Logout();
-
             if (ModelState.IsValid && WebSecurity.Login(username, password, false))
             {
                 if (!string.IsNullOrEmpty(returnUrl))
@@ -48,6 +46,41 @@ namespace MainSSO.Controllers
                 ModelState.AddModelError(string.Empty, "Invalid login details");
                 ViewBag.ReturnUrl = returnUrl;
                 return View();
+            }
+        }
+
+        [AllowAnonymous]
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Create(string username, string password, string role, string returnUrl)
+        {
+
+            var roles = (SimpleRoleProvider)Roles.Provider;
+            var membership = (SimpleMembershipProvider)Membership.Provider;
+
+            if (!roles.RoleExists(role))
+            {
+                roles.CreateRole(role);
+            }
+
+            WebSecurity.CreateUserAndAccount(username, password);
+
+            if (membership.GetUser(username, false) == null)
+            {
+                membership.CreateUserAndAccount(username, password);
+            }
+            if (!roles.GetRolesForUser(username).Contains(role))
+            {
+                roles.AddUsersToRoles(new[] { username }, new[] { role });
+            }
+
+            if (!string.IsNullOrEmpty(returnUrl))
+            {
+                return Redirect(returnUrl);
+            }
+            else
+            {
+                return RedirectToAction("Index", "Home");
             }
         }
 
