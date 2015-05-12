@@ -3,9 +3,8 @@
 }
 <h2>Web Client1 Home</h2>
 You are logged in as @User.Identity.Name
-    Is master: @User.IsInRole("master")
 
-@if (User.IsInRole(@"SChervonyi\master"))
+@if (User.IsInRole("master"))
 {
-    <h4>Only the Master can see this item</h4>
+    <h4>Greetings my Master!</h4>
 }
