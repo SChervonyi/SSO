@@ -24,3 +24,33 @@ D:\Development\Visual Studio 2013\Projects\MySSO\MainSSO\bin\WebMatrix.WebData.d
 D:\Development\Visual Studio 2013\Projects\MySSO\MainSSO\bin\WebMatrix.Data.xml
 D:\Development\Visual Studio 2013\Projects\MySSO\MainSSO\bin\WebMatrix.WebData.xml
 D:\Development\Visual Studio 2013\Projects\MySSO\MainSSO\bin\Microsoft.Web.Helpers.dll
+C:\main\git\SSO\MainSSO\bin\MainSSO.dll.config
+C:\main\git\SSO\MainSSO\bin\MainSSO.dll
+C:\main\git\SSO\MainSSO\bin\MainSSO.pdb
+C:\main\git\SSO\MainSSO\bin\EntityFramework.dll
+C:\main\git\SSO\MainSSO\bin\EntityFramework.SqlServer.dll
+C:\main\git\SSO\MainSSO\bin\Microsoft.Web.Helpers.dll
+C:\main\git\SSO\MainSSO\bin\System.Web.Helpers.dll
+C:\main\git\SSO\MainSSO\bin\System.Web.Http.dll
+C:\main\git\SSO\MainSSO\bin\System.Web.Mvc.dll
+C:\main\git\SSO\MainSSO\bin\System.Web.Razor.dll
+C:\main\git\SSO\MainSSO\bin\System.Web.WebPages.Deployment.dll
+C:\main\git\SSO\MainSSO\bin\System.Web.WebPages.dll
+C:\main\git\SSO\MainSSO\bin\System.Web.WebPages.Razor.dll
+C:\main\git\SSO\MainSSO\bin\WebMatrix.Data.dll
+C:\main\git\SSO\MainSSO\bin\WebMatrix.WebData.dll
+C:\main\git\SSO\MainSSO\bin\System.Net.Http.Formatting.dll
+C:\main\git\SSO\MainSSO\bin\EntityFramework.xml
+C:\main\git\SSO\MainSSO\bin\EntityFramework.SqlServer.xml
+C:\main\git\SSO\MainSSO\bin\System.Web.Helpers.xml
+C:\main\git\SSO\MainSSO\bin\System.Web.Http.xml
+C:\main\git\SSO\MainSSO\bin\System.Web.Razor.xml
+C:\main\git\SSO\MainSSO\bin\System.Web.WebPages.xml
+C:\main\git\SSO\MainSSO\bin\System.Web.WebPages.Deployment.xml
+C:\main\git\SSO\MainSSO\bin\System.Web.WebPages.Razor.xml
+C:\main\git\SSO\MainSSO\bin\WebMatrix.Data.xml
+C:\main\git\SSO\MainSSO\bin\WebMatrix.WebData.xml
+C:\main\git\SSO\MainSSO\bin\System.Web.Mvc.xml
+C:\main\git\SSO\MainSSO\bin\System.Net.Http.Formatting.xml
+C:\main\git\SSO\MainSSO\obj\Debug\MainSSO.dll
+C:\main\git\SSO\MainSSO\obj\Debug\MainSSO.pdb

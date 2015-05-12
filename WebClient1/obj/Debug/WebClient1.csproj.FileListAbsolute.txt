@@ -15,3 +15,30 @@ D:\Development\Visual Studio 2013\Projects\MySSO\WebClient1\bin\System.Web.Helpe
 D:\Development\Visual Studio 2013\Projects\MySSO\WebClient1\bin\System.Web.Mvc.xml
 D:\Development\Visual Studio 2013\Projects\MySSO\WebClient1\obj\Debug\WebClient1.dll
 D:\Development\Visual Studio 2013\Projects\MySSO\WebClient1\obj\Debug\WebClient1.pdb
+C:\main\git\SSO\WebClient1\bin\WebClient1.dll.config
+C:\main\git\SSO\WebClient1\bin\WebClient1.dll
+C:\main\git\SSO\WebClient1\bin\WebClient1.pdb
+C:\main\git\SSO\WebClient1\bin\System.Web.Helpers.dll
+C:\main\git\SSO\WebClient1\bin\System.Web.Mvc.dll
+C:\main\git\SSO\WebClient1\bin\System.Web.Razor.dll
+C:\main\git\SSO\WebClient1\bin\System.Web.WebPages.Deployment.dll
+C:\main\git\SSO\WebClient1\bin\System.Web.WebPages.dll
+C:\main\git\SSO\WebClient1\bin\System.Web.WebPages.Razor.dll
+C:\main\git\SSO\WebClient1\bin\System.Web.Helpers.xml
+C:\main\git\SSO\WebClient1\bin\System.Web.Razor.xml
+C:\main\git\SSO\WebClient1\bin\System.Web.WebPages.xml
+C:\main\git\SSO\WebClient1\bin\System.Web.WebPages.Deployment.xml
+C:\main\git\SSO\WebClient1\bin\System.Web.WebPages.Razor.xml
+C:\main\git\SSO\WebClient1\bin\System.Web.Mvc.xml
+C:\main\git\SSO\WebClient1\obj\Debug\WebClient1.dll
+C:\main\git\SSO\WebClient1\obj\Debug\WebClient1.pdb
+C:\main\git\SSO\WebClient1\bin\Microsoft.Web.Helpers.dll
+C:\main\git\SSO\WebClient1\bin\WebMatrix.Data.dll
+C:\main\git\SSO\WebClient1\bin\WebMatrix.WebData.dll
+C:\main\git\SSO\WebClient1\bin\WebMatrix.Data.xml
+C:\main\git\SSO\WebClient1\bin\WebMatrix.WebData.xml
+C:\main\git\SSO\WebClient1\bin\EntityFramework.dll
+C:\main\git\SSO\WebClient1\bin\EntityFramework.SqlServer.dll
+C:\main\git\SSO\WebClient1\bin\EntityFramework.xml
+C:\main\git\SSO\WebClient1\bin\EntityFramework.SqlServer.xml
+C:\main\git\SSO\WebClient1\obj\Debug\WebClient1.csprojResolveAssemblyReference.cache
