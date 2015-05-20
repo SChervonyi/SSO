@@ -7,8 +7,8 @@ using WebClient1.Filters;
 
 namespace WebClient1.Controllers
 {
+    [InitializeSimpleMembership]
     [Authorize]
-	[InitializeSimpleMembership]
     public class HomeController : Controller
     {
         // GET: Home
