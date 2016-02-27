@@ -295,7 +295,6 @@ namespace MainSSOLib
             string LogoutUrl = string.Format("{0}&{1}={2}&{3}={4}", ssoSiteUrl, AppConstants.UrlParams.ACTION, AppConstants.ParamValues.LOGOUT, AppConstants.UrlParams.TOKEN, SessionAPI.CurrentUser.Token);
             CurrentUser = null;
             Response.Redirect(LogoutUrl);
-
         }
     }
 }

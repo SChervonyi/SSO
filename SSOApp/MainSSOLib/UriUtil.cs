@@ -23,8 +23,8 @@ namespace MainSSOLib
 
         public static string GetAbsolutePathForRelativePath(string relativePath)
         {
-            HttpRequest Request = HttpContext.Current.Request;
-            string returnUrl = string.Format("{0}{1}", Request.Url.AbsoluteUri.Replace(Request.Url.PathAndQuery, string.Empty), VirtualPathUtility.ToAbsolute(relativePath));
+            var request = HttpContext.Current.Request;
+            string returnUrl = string.Format("{0}{1}", request.Url.AbsoluteUri.Replace(request.Url.PathAndQuery, string.Empty), VirtualPathUtility.ToAbsolute(relativePath));
             return returnUrl;
         }
     }
