@@ -1,5 +1,5 @@
 How to install:
-1) Create 'SitecoreSSO' database from Sitecore.sql script.
+1) Create 'SingleSignOn' database from CreateDB.sql script.
 2) Configure connection string in Web.config of MainSSO project and WebClient1.
 3) Download NuGet packages and build solution.
 4) Add servers to IIS (http://localhost/MainSSO		http://localhost/WebClient1		http://localhost/WebClient2).
